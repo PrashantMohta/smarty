@@ -2,7 +2,7 @@
 This is the source code to my custom version of BTNotification app called 'smarty' 
 first posted in [this XDA thread](https://forum.xda-developers.com/showpost.php?p=76227730)
 
-while i do not intend to work on this app anymore, i saw that people are interested in cotributing 
+while i do not intend to work on this app anymore, i saw that people are interested in contributing 
 and taking the project further so i have uploaded the code base as is.
 
 > Smarty - Custom BTNotification app for MTK smartwatches (tested with DZ09)
