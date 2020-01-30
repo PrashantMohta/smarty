@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="about">About</string>
+    <string name="accessibility_description">Active notification service in your accessibility setting. This allows Smartwatch Companion to push application notification to remote device.</string>
+    <string name="accessibility_preference_summary">"Activate notification service in your Accessibility settings. This allows Smartwatch Companion to show applications' notifications."</string>
+    <string name="accessibility_preference_title">Accessibility settings</string>
+    <string name="accessibility_prompt_content">"Smartwatch Companion  requires Accessibility features to send  notifications to your Smartwatch. Continue to Accessibility settings to enable."</string>
+    <string name="accessibility_prompt_title">Enable Accessibility</string>
+    <string name="add">Add</string>
+    <string name="add_values">Add values to the chart</string>
+    <string name="again_according_to_exit_the_program">Again according to exit the program !</string>
+    <string name="always_forward_preference_summary">Push notification always or screen locked only.</string>
+    <string name="always_forward_preference_title">Always send notification</string>
+    <string name="app_info_preference_sumarry">When you connect your device by BT dialer, it can push notifications to BT dialer by making some relevant settings in this App.</string>
+    <string name="app_name">SmartWatch</string>
+    <string name="app_notice_push_setting">Application push</string>
+    <string name="back">Back</string>
+    <string name="batterylow">Battery low</string>
+    <string name="ble_activate">Bluetooth pairing</string>
+    <string name="blocks_apps_title">Blocked app list</string>
+    <string name="bluetooth_has_been_closed">Bluetooth has been closed</string>
+    <string name="bluetooth_has_been_open">Bluetooth has been open</string>
+    <string name="button_deselect_all">Unselect All</string>
+    <string name="button_save">Save</string>
+    <string name="button_select_all">Select All</string>
+    <string name="button_unblock">Unblock</string>
+    <string name="call_preference_summary">Push missed call</string>
+    <string name="call_preference_title">Call service</string>
+    <string name="cancel">Cancel</string>
+    <string name="check_phone_version">Your phone version is above Android5.0, do not need to open the Bluetooth notification!</string>
+    <string name="connected">Connected</string>
+    <string name="contentDescription">contentDescription</string>
+    <string name="current_version_preference_title">Current version</string>
+    <string name="dailog_title">"Will not push new notification to remote device if you exit.
+Do want to continue?"</string>
+    <string name="device_config">Device configuration</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_confirm">Confirm</string>
+    <string name="dialog_content_download_tips">You are currently in the 2G/3G/4G network environment, whether to continue to download?</string>
+    <string name="dialog_tiltle_download_tips">Download tips</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="do_not_allow_the_bluetooth">Do not allow the bluetooth</string>
+    <string name="download">Download</string>
+    <string name="download_failed">" download failed!"</string>
+    <string name="download_the_new_version_is_failure">Download the new version is failure</string>
+    <string name="exit">Exit</string>
+    <string name="failed_to_get_server_updates">Failed to get server updates!</string>
+    <string name="find_watch">Looking for a watch</string>
+    <string name="heart_rate_survey">Heart Rate Monitor</string>
+    <string name="is_download_the_update">Is download the update</string>
+    <string name="is_the_latest_version_do_not_need_to_update">Is the latest version, do not need to update!</string>
+    <string name="jing_pin">Recommend boutique</string>
+    <string name="loading">Loading...</string>
+    <string name="mapnotification_content">BTNotification will access your messages, click to set</string>
+    <string name="mapnotification_ticker_text">Message access request</string>
+    <string name="mapnotification_title">Message access request</string>
+    <string name="maprequest_prompt_content">BTNotification is required to send your message profile to your remote device. Press OK to activate it.</string>
+    <string name="maprequest_prompt_title">Message access request</string>
+    <string name="missed_call">Missed Call</string>
+    <string name="monitoring_to_the_latest_version">Monitoring to the latest version, please update!</string>
+    <string name="music_player">Play music</string>
+    <string name="new_series">New series</string>
+    <string name="no_found_drivers">The machine did not find the Bluetooth hardware or driver!</string>
+    <string name="notification_content">Click to open Companion</string>
+    <string name="notification_preference_category">App notification</string>
+    <string name="notification_preference_summary">Push App notifications</string>
+    <string name="notification_preference_title">Notification service</string>
+    <string name="notification_ticker_text">Companion connected remote device</string>
+    <string name="notification_title">Smartwatch connected</string>
+    <string name="ok">OK</string>
+    <string name="option_preference_category">Others</string>
+    <string name="personal_apps_title">Personal app</string>
+    <string name="phone_preference_category">Phone service</string>
+    <string name="pleaseconnectcharger">The battery is getting low,Please connect charger, Capacity</string>
+    <string name="progress_dialog_message">Please wait…</string>
+    <string name="progress_dialog_title">Loading</string>
+    <string name="recommended_application">Recommended application</string>
+    <string name="report_count_steps">Step motion meter</string>
+    <string name="save_successfully">Saved successfully</string>
+    <string name="save_unblock_successfully">Save unblock successfully</string>
+    <string name="sd_card_does_not_exist">SD card does not exist</string>
+    <string name="select_blocks_activity">Select apps to unblock</string>
+    <string name="select_blocks_preference_summary">Select which App will be blocked.</string>
+    <string name="select_blocks_preference_title">Blocked app</string>
+    <string name="select_notifi_activity">Select Notification</string>
+    <string name="select_notifi_preference_summary">Select which App notifications need to push.</string>
+    <string name="select_notifi_preference_title">Notification app</string>
+    <string name="setting_activity">Setting</string>
+    <string name="settings">Settings</string>
+    <string name="settings_app_mannager">Application switch</string>
+    <string name="settings_call">Call service</string>
+    <string name="settings_call_describe">Missed calls to watch</string>
+    <string name="settings_notification_ctl">Notification bar switch</string>
+    <string name="settings_notification_ctl_describe">Push notification bar information to watch</string>
+    <string name="settings_sms">SMS service</string>
+    <string name="settings_sms_describe">Push SMS to watch</string>
+    <string name="settings_update_version">Version updating</string>
+    <string name="show_connect_status_preference_summary">Show connection status in the status bar when BT notification is connected.</string>
+    <string name="show_connect_status_preference_title">Show connection status</string>
+    <string name="side_function_setting">Settings</string>
+    <string name="sleep_survey">Sleep monitoring</string>
+    <string name="smart_push">Smart push</string>
+    <string name="smart_push_msg">Smart push SMS CallReminder</string>
+    <string name="sms_preference_summary">Push SMS messages</string>
+    <string name="sms_preference_title">SMS service</string>
+    <string name="sms_send">SMS Send</string>
+    <string name="sms_send_fail">SMS Send Failed</string>
+    <string name="sms_send_success">SMS Send Successful</string>
+    <string name="system_apps_title">System app</string>
+    <string name="version_info">V%1$s(%2$s)</string>
+    <string name="version_preference_category">Version</string>
+    <string name="version_updates">Version updating</string>
+    <string name="version_upgrade">version upgrade</string>
+    <string name="x">X</string>
+    <string name="xlistview_footer_hint_normal">More</string>
+    <string name="xlistview_footer_hint_ready">Release loading more</string>
+    <string name="xlistview_header_hint_loading">Loading...</string>
+    <string name="xlistview_header_hint_normal">pull-to-refresh</string>
+    <string name="xlistview_header_hint_ready">Undo refresh</string>
+    <string name="xlistview_header_last_time">Time:</string>
+    <string name="y">Y</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="title_activity_smartwatch">Smartwatch Companion</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string-array name="list_preference_entries">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+
+    <string-array name="list_preference_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="multi_select_list_preference_default_value" />
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+</resources>
